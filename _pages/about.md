@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at UMass Amherst
+subtitle: 
 
 profile:
   align: right
@@ -13,11 +13,31 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+about_others: true # includes teaching, service, and other information
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a second-year Computer Science PhD student at UMass Amherst, 
+working with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) at 
+[Information Extraction and Synthesis Lab (IESL)](http://www.iesl.cs.umass.edu/people). 
+I completed a Computer Science master's degree also at UMass, prior to which 
+I graduated with a major in Joint Mathematics and Economics, 
+a major with distinction in Cognitive Science,
+a minor in Computer Science, and a minor in Philosophy from UC San Diego. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My recent research focuses on probabilistic box embeddings and energy-based learning. 
+On the first topic, I study modeling joint probability distributions using hyper-box 
+representations, where volumes have calibrated probability interpretations, and its learning and 
+inference algorithms. On the second topic, I explore energy-based models as trainable 
+objective functions for feedforward prediction networks to improve statistical efficiency and performance 
+of feedforward networks while avoiding expensive gradient-based-inference in many energy-based methods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am enthusiastic about building systems. I have enjoyed collaboration with the UMass NLP Lab on 
+developing an authoring assistant that generates texts according to intent guidance, and 
+a crowdsourcing platform for collecting coreference resolution annotations. 
+I have also contributed to a series of AI-for-science projects with the Vision Lab on developing 
+machine learning systems to detect and track bird or bat roosts in whether radar data for 
+ecology and conservation biology research.
+
+In terms of industry experience, I worked with Amazon Alexa as a mentee and a mentor in 
+two versions of UMass Industry Mentorship Program, and as an intern in summer 2022.
