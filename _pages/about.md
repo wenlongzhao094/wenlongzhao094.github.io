@@ -30,7 +30,7 @@ On the first topic, I study modeling joint probability distributions using hyper
 representations, where volumes have calibrated probability interpretations, and its learning and 
 inference algorithms. On the second topic, I explore energy-based models as trainable 
 objective functions for feedforward prediction networks to improve statistical efficiency and performance 
-of feedforward networks while avoiding expensive gradient-based-inference in many energy-based methods.
+of feedforward networks while avoiding expensive gradient-based-inference in existing energy-based methods.
 
 I am enthusiastic about building systems. I have enjoyed collaboration with the UMass NLP Lab on 
 developing an authoring assistant that generates texts according to intent guidance, and 
