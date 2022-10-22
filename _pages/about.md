@@ -23,20 +23,16 @@ working with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) at
 I completed a Computer Science master's degree also at UMass, prior to which 
 I graduated with a major in Joint Mathematics and Economics, 
 a major with distinction in Cognitive Science,
-a minor in Computer Science, and a minor in Philosophy from UC San Diego. 
+a minor in Computer Science, and a minor in Philosophy from UC San Diego.
 
-My recent research focuses on probabilistic box embeddings and energy-based learning. 
-On the first topic, I study modeling joint probability distributions using hyper-box 
-representations, where volumes have calibrated probability interpretations, and its learning and 
-inference algorithms. On the second topic, I explore energy-based models as trainable 
-objective functions for feedforward prediction networks to improve statistical efficiency and performance 
-of feedforward networks while avoiding expensive gradient-based-inference in existing energy-based methods.
-
-I am enthusiastic about building systems. I have enjoyed collaboration with the UMass NLP Lab on 
+My recent research focuses on probabilistic box embeddings and energy-based models, 
+their learning and inference algorithms, and their efficiency-accuracy trade-offs. 
+I am also enthusiastic about building systems. 
+I have enjoyed collaboration with the UMass NLP Lab on 
 developing an authoring assistant that generates texts according to intent guidance, and 
 a crowdsourcing platform for collecting coreference resolution annotations. 
-I have also contributed to a series of AI-for-science projects with the Vision Lab on developing 
-machine learning systems to detect and track bird or bat roosts in whether radar data for 
+I have contributed to a series of AI-for-science projects with the Vision Lab on developing 
+machine learning systems to detect and track bird or bat roosts in weather radar data for 
 ecology and conservation biology research.
 
 In terms of industry experience, I worked with Amazon Alexa as a mentee and a mentor in 
