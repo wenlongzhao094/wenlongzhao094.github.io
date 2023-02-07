@@ -28,7 +28,7 @@ a minor in Computer Science, and a minor in Philosophy from UC San Diego.
 My recent research focuses on probabilistic box embeddings and energy-based models, 
 their learning and inference algorithms, and efficiency-accuracy trade-offs. 
 I am also enthusiastic about building systems. 
-I am part of a multi-university AI-for-science project led by 
+I am part of a multi-university AI-for-science project series led by 
 Prof. Subhransu Maji and Prof. Dan Sheldon on 
 developing machine learning algorithms to detect and track bird and bat roosts 
 in weather radar data for conservation biology and ecology research. 
