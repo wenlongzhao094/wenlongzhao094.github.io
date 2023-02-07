@@ -21,19 +21,29 @@ I'm a second-year Computer Science PhD student at UMass Amherst,
 working with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) at 
 [Information Extraction and Synthesis Lab (IESL)](http://www.iesl.cs.umass.edu/people). 
 I completed a Computer Science master's degree also at UMass, prior to which 
-I graduated with a major in Joint Mathematics and Economics, 
-a major with distinction in Cognitive Science,
+I graduated with a major in Mathematics and Economics, 
+a major with distinction in Cognitive Science, 
 a minor in Computer Science, and a minor in Philosophy from UC San Diego.
 
 My recent research focuses on probabilistic box embeddings and energy-based models, 
-their learning and inference algorithms, and their efficiency-accuracy trade-offs. 
+their learning and inference algorithms, and efficiency-accuracy trade-offs. 
 I am also enthusiastic about building systems. 
-I have enjoyed collaboration with the UMass NLP Lab on 
-developing an authoring assistant that generates texts according to intent guidance, and 
-a crowdsourcing platform for collecting coreference resolution annotations. 
-I have contributed to a series of AI-for-science projects with the Vision Lab on developing 
-machine learning systems to detect and track bird or bat roosts in weather radar data for 
-ecology and conservation biology research.
+I am part of a multi-university AI-for-science project led by 
+Prof. Subhransu Maji and Prof. Dan Sheldon on 
+developing machine learning algorithms to detect and track bird and bat roosts 
+in weather radar data for conservation biology and ecology research. 
+I worked with Prof. Mohit Iyyer and Prof. Brendan O'Connor on 
+developing a crowdsourcing platform for collecting coreference resolution annotations. 
+I have also contributed to AI-for-sociology research about using computational models to 
+study peer review processes. 
 
-In terms of industry experience, I worked with Amazon Alexa as a mentee and a mentor in 
-two versions of UMass Industry Mentorship Program, and as an intern in summer 2022.
+I am excited to see AI become useful tools in industry. 
+I have worked with Adobe collaborators to develop an authoring assistant that 
+generates texts according to intent guidance. 
+I have collaborated with Amazon Alexa as a Summer 2022 intern and via the UMass Industry 
+Mentorship Program to investigate computational efficiency of large language models. 
+
+In a longer term, I am interested in both AI applications and the possibility to build AI 
+that learns to interact with the world based on reliable common sense, knowledge, and reasoning. 
+Relevant work include my Spring 2023 collaboration with Allen AI mentors about 
+editing memory in transformer models.
