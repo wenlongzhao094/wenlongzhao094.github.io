@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>wenlongzhao AT cs.umass.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
+services: true # includes a list of services 
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science PhD student at UMass Amherst, advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) at the [Information Extraction and Synthesis Lab (IESL)](http://www.iesl.cs.umass.edu/people). My research interests include: scalable machine learning, customized machine learning, and natural language processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed a Computer Science master's degree also at UMass Amherst. I had a lot of fun working with Prof. Subhransu Maji, Prof. Dan Sheldon, and ornithologists on developing machine learning algorithms to detect and track bird and bat roosts in weather radar data for conservation biology and ecology research. I also benefited a lot from working with Prof. Mohit Iyyer and Prof. Brendan O'Connor on developing a coreference resolution dataset and a writing assistant system. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my undergraduate study at UC San Diego with a major in Mathematics and Economics, a major with distinction in Cognitive Science, a minor in Computer Science, and a minor in Philosophy. 
